@@ -1,0 +1,2 @@
+# Coe_Azure_Container_Registry_Module
+Coe_Azure_Container_Registry_Module
